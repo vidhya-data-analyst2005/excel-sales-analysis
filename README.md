@@ -52,4 +52,11 @@ This dashboard makes sales information easier to understand, helps identify high
 
 Data Analysis | Excel | Pivot Tables | Pivot Charts | Slicers | Dashboard Design | Business Insights
 
+## Dashboard Preview
+
+![Excel Sales Analysis Dashboard](Excel_Sales_Dashboard.png)
+
+## Project Presentation
+
+[View the Sales Analysis Presentation](SALES%20ANALYSIS%20DASHBOARD%20ppt.pptx)
 
