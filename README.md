@@ -60,3 +60,19 @@ Data Analysis | Excel | Pivot Tables | Pivot Charts | Slicers | Dashboard Design
 
 [View the Sales Analysis Presentation](SALES%20ANALYSIS%20DASHBOARD%20ppt.pptx)
 
+## Key Insights
+
+* Total sales reached approximately 19.37 million.
+* The dataset contains 500 orders.
+* Electronics is a major sales category in the analysis.
+* Laptop is one of the key products contributing to sales.
+* Regional sales analysis helps identify high-performing locations.
+* Customer analysis highlights customers with higher sales contributions.
+
+## Business Recommendations
+
+* Focus on products that contribute significantly to sales.
+* Study lower-performing regions to identify improvement opportunities.
+* Build customer retention strategies for high-value customers.
+* Use interactive slicers to compare sales performance across products and regions.
+
